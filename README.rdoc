@@ -6,7 +6,7 @@ Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
 License:: CreativeCommons License, Non-commercial Share Alike
 License:: LGPL, GNU Lesser General Public License
 
-ActionController mock object for testing.
+ActionController mock object for testing Rails.
 
 This provides just the basics we need for testing 
 our other gems. You probably won't use this class.
