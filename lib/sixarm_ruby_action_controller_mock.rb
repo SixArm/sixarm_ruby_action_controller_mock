@@ -1,16 +1,15 @@
+# -*- encoding: utf-8 -*-
 =begin rdoc
 
-= SixArm Ruby Gem: ActionController::Base Mock
+= SixArm Ruby Gem » ActionController::Base Mock
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
+License:: Your choice of BSD, MIT, LGPL, or CreativeCommons Non-commercial Share Alike
 
-ActionController mock object for testing Rails.
+ActionController mock object that we use to test our various gems for Rails.
 
-This provides just the basics we need for testing 
-our other gems. You probably won't use this class.
+This provides basics we need; you probably won't ever need to use this gem.
 
 ==Example
   require 'action_controller_mock'
