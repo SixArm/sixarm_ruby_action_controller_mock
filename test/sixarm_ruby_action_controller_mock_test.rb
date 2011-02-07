@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 require 'test/unit'
 require 'sixarm_ruby_action_controller_mock'
 

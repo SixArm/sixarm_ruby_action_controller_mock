@@ -1,11 +1,11 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 =begin rdoc
 
-= SixArm Ruby Gem » ActionController::Base Mock
+= SixArm.com » Ruby » ActionController mock object for testing Rails
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: Your choice of BSD, MIT, LGPL, or CreativeCommons Non-commercial Share Alike
+Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
+License:: See LICENSE.txt file
 
 ActionController mock object that we use to test our various gems for Rails.
 
