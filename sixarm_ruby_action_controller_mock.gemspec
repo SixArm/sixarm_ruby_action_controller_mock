@@ -16,4 +16,11 @@ Gem::Specification.new do |s|
   s.files             = ['README.rdoc','LICENSE.txt','lib/sixarm_ruby_action_controller_mock.rb']
   s.test_files        = ['test/sixarm_ruby_action_controller_mock_test.rb']
 
+  top_files           = [".gemtest", "CHANGELOG.txt", "INSTALL.txt", "LICENSE.txt", "Rakefile", "README.rdoc", "VERSION"]
+  lib_files           = ["lib/#{s.name}.rb"]
+  test_files          = ["test/#{s.name}_test.rb"]
+
+  s.files             = top_files + lib_files + test_files
+  s.test_files        = test_files
+
 end

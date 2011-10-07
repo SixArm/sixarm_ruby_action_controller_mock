@@ -1,26 +1,7 @@
 # -*- coding: utf-8 -*-
-
 =begin rdoc
-
-= SixArm.com » Ruby » ActionController mock object for testing Rails
-
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
-License:: See LICENSE.txt file
-
-ActionController mock object that we use to test our various gems for Rails.
-
-This provides basics we need; you probably won't ever need to use this gem.
-
-==Example
-  require 'action_controller_mock'
-  class ApplicationController < ActionController::Base
-    before_filter :foo  # mock
-    after_filter :bar   # mock
-  end
-
+Please see README.rdoc
 =end
-
 
 module ActionController
 
