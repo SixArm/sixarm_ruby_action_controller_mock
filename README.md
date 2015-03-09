@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> ActionController mock object for testing Rails
+# Ruby » <br> ActionController mock object for testing Rails
 
 * Doc: <http://sixarm.com/sixarm_ruby_action_controller_mock/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_action_controller_mock>
