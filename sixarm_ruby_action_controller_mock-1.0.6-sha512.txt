@@ -1,1 +1,0 @@
-f4ea48a68e3cb781fccf2417d7d79002c49167ac692099e82ea5c8c935d069d6bd73c28df29d9ee310579b9a12dd6dcbe2de56af8b5acdb80921d73bfeaa2f37  sixarm_ruby_action_controller_mock-1.0.6.gem
