@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-require 'minitest/autorun'
-require 'simplecov'
+require "minitest/autorun"
+Minitest::Test ||= MiniTest::Unit::TestCase
+require "simplecov"
 SimpleCov.start
-require 'sixarm_ruby_action_controller_mock'
+require "sixarm_ruby_action_controller_mock"
 
 class Testing < Test::Unit::TestCase
 
