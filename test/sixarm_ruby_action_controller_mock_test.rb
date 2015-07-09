@@ -5,7 +5,7 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_action_controller_mock"
 
-class Testing < Test::Unit::TestCase
+class Testing < Minitest::Test
 
  def setup
   @mock=ActionController::Base.new
