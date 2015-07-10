@@ -13,7 +13,7 @@
 
 ActionController mock object that we use to test our various gems for Rails.
 
-This provides basics we need; you probably won't ever need to use this gem.
+This provides the basics that we need; you probably won't ever need to use this gem.
 
 For docs go to <http://sixarm.com/sixarm_ruby_action_controller_mock/doc>
 
