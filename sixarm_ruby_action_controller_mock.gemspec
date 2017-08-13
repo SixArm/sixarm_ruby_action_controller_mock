@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name           = "sixarm_ruby_action_controller_mock"
-  s.summary        = "SixArm.com » Ruby » ActionController mock object that we use to test our various gems for Rails."
+  s.summary        = "SixArm.com → Ruby → ActionController mock object that we use to test our various gems for Rails."
   s.description    = "This provides basics we need; you probably won't ever need to use this gem."
   s.version        = "1.0.8"
 
